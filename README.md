@@ -6,7 +6,7 @@ Hey, You are Most Welcome!
 
 As for me, I can’t articulate much. There’s a real person behind this profile too! I want to enjoy my life by creating cool stuff and continuously coding. But when I am free I just love to play drums, watch Hollywood thriller movies, play with my little girls, and travel by Bike.
 
-Skills: REACT / Javascript / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Redux, Nextjs & Typescript 
 - 💬 Ask me about React, Mongodb, Firebase & Tailwind Css 
@@ -17,6 +17,7 @@ Skills: REACT / Javascript / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakil-ctg)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshakil-ctg&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshakil-ctg)  
+
