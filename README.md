@@ -1,31 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shakil</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+### Hi there 👋, I am Mohammed Shakil
+#### I am a passionate web developer from Bangladesh
+![I am a passionate web developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQF6SaXVAH58PQ/profile-displaybackgroundimage-shrink_350_1400/0/1673294633274?e=1683158400&v=beta&t=utosgcYwXQotJ5molN8g3sBs1ir9w0kQFzoOE_hB0L0)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakil-ctg" alt="mdshakil-ctg" /></a> </p>
+Hey, You are Most Welcome!
 
-- 🔭 I’m currently working on [Resale Planet](https://resale-planet.web.app/)
+As for me, I can’t articulate much. There’s a real person behind this profile too! I want to enjoy my life by creating cool stuff and continuously coding. But when I am free I just love to play drums, watch Hollywood thriller movies, play with my little girls, and travel by Bike.
 
-- 🌱 I’m currently learning **Next Js, Redux etc**
+Skills: REACT / JS / HTML / CSS
 
-- 👨‍💻 All of my projects are available at [https://md-shakil-portfolio.netlify.app/](https://md-shakil-portfolio.netlify.app/)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Redux, Nextjs & Typescript 
+- 💬 Ask me about React, Mongodb, Firebase & Tailwind Css 
+- 📫 How to reach me: mdshakil2898@gmail.com 
 
-- 💬 Ask me about **React,Redux**
 
-- 📫 How to reach me **mdshakil2898@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdshakil-ctg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshakil-ctg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdshakil2898)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://md-shakil-portfolio.netlify.app/)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A3zpCkU9yQfG-K5x3KA9JA4KwmicXQsE/view?usp=share_link](https://drive.google.com/file/d/1A3zpCkU9yQfG-K5x3KA9JA4KwmicXQsE/view?usp=share_link)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakil-ctg)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdshakil-ctg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdshakil-ctg/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007255800641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007255800641" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshakil-ctg&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakil-ctg&show_icons=true&locale=en&layout=compact" alt="mdshakil-ctg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshakil-ctg&show_icons=true&locale=en" alt="mdshakil-ctg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakil-ctg&" alt="mdshakil-ctg" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshakil-ctg)  
