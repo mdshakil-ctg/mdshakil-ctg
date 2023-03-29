@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Mohammed Shakil
-#### I am a passinate web developer from Bangladesh
+#### I am a passionate web developer from Bangladesh
 ![I am a passinate web developer from Bangladesh](https://pbs.twimg.com/profile_banners/1516511589465088001/1677602211/600x200)
 
 Hey, You are Most Welcome!
