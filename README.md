@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Redux, Nextjs & Typescript 
 - 💬 Ask me about React, Mongodb, Firebase & Tailwind Css 
-- 📫 How to reach me: mdshakil2898@gmail.com 
+- 📫 How to reach me: developer.shakil.ctg@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdshakil-ctg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshakil-ctg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdshakil2898)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://md-shakil-portfolio.netlify.app/)  
